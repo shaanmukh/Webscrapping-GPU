@@ -25,14 +25,14 @@ pip install requests
 
 The code performs the following steps:
 
-Takes the search term as input from the user.
-Creates a URL for the search term on Newegg.com.
-Scrapes the webpage using BeautifulSoup.
-Finds the total number of pages for that search term.
-Iterates over each page, scraping the items and prices for the given search term.
-Stores the data in a dictionary with the item name, price, and link.
-Sorts the dictionary by price in ascending order.
-Prints the results.
+1. Takes the search term as input from the user.
+2. Creates a URL for the search term on Newegg.com.
+3. Scrapes the webpage using BeautifulSoup.
+4. Finds the total number of pages for that search term.
+5. Iterates over each page, scraping the items and prices for the given search term.
+6. Stores the data in a dictionary with the item name, price, and link.
+7. Sorts the dictionary by price in ascending order.
+8. Prints the results.
 
 ## Disclaimer
 
