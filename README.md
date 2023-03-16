@@ -12,8 +12,8 @@ After entering the search term, the program accesses Newegg.com and scrapes all 
 
 The code requires the following libraries to be installed:
 
--BeautifulSoup
--Requests
+- BeautifulSoup
+- Requests
 
 You can install them using the following commands:
 ```
